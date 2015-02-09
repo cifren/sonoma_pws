@@ -1,5 +1,4 @@
 /.gitignore
-/.htaccess
 /administrator/cache/*
 /cache/*
 /logs/*
